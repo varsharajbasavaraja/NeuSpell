@@ -1,5 +1,5 @@
 
-# **Enhancing Language Precision: Context-Aware Spelling Correction**
+# **Enhancing Language Precision Using Neural Context-Aware Spelling Correction Toolkit**
 
 ## Steps to implement NeuSpell: A Neural Spelling Correction Toolkit
 
